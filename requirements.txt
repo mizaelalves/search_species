@@ -28,7 +28,6 @@ numpy==1.26.4
 oauthlib==3.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycurl==7.45.3
 pyparsing==3.1.1
 pyrsistent==0.20.0
 pyserial==3.5
